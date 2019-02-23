@@ -1,0 +1,28 @@
+
+{
+  "name": "react-native-acrcloud",
+  "version": "1.0.0",
+  "description": "A native module for the ACRCloud Music Recognition Service",
+  "main": "index.js",
+  "author": "dailydm",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dailydm/react-native-acrcloud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dailydm/react-native-acrcloud/issues"
+  },
+  "homepage": "https://github.com/dailydm/react-native-acrcloud",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "acrloud",
+  ],
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  }
+}
