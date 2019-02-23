@@ -19,7 +19,7 @@
   },
   "keywords": [
     "react-native",
-    "acrloud",
+    "acrloud"
   ],
   "peerDependencies": {
     "react-native": "^0.41.2",
